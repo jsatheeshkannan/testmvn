@@ -16,6 +16,10 @@ public class Login {
 	public void ldapuser1(){
 		System.out.println("ldapuser1 allowed");
 	}
+@Test
+	public void ldapuser2(){
+		System.out.println("ldapuser2 allowed");
+	}
 	
 
 }
