@@ -17,10 +17,16 @@ public class Login {
 		System.out.println("ldapuser1 allowed");
 	}
 @Test
+<<<<<<< HEAD
 	public void ldapusermaster1(){
 		System.out.println("ldapusermaster1 allowed");
 	}
 	
+=======
+	public void ldapuser2(){
+		System.out.println("ldapuser2 allowed");
+	}
+>>>>>>> testmvn-br1
 	
 
 }
